@@ -33,7 +33,9 @@
 				"GitHub.vscode-github-actions",
 				"ms-azuretools.vscode-docker",
 				"ms-dotnettools.csdevkit",
-				"vscjava.vscode-java-pack"
+				"vscjava.vscode-java-pack",
+				"ms-toolsai.jupyter",
+				"ms-python.python"
 			]
 		}
 	},
