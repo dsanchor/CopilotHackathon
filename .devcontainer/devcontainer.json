@@ -19,7 +19,7 @@
 			"version": "17",
 			"installMaven": true
 		},
-		"ghcr.io/devcontainers-contrib/features/python:1": {
+		"ghcr.io/devcontainers/features/python:1": {
 			"version": "3"
 		}
 	},
